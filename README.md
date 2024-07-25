@@ -27,9 +27,9 @@
     <li>Créditos ---------------------> [100%]</li>
 
 <h2>Ferramentas Utilizadas</h2>
-    <li><a href="https://www.romhacking.net/utilities/658/">jPSXdec</a></li>
-    <li><a href="https://www.romhacking.net/utilities/1435/">CDmage</a></li>
-    <li><a href="https://github.com/lab313ru/tim2view">tim2view</a></li>
-    <li><a href="https://www.romhacking.net/utilities/109/">TileMolester</a></li>
-    <li><a href="https://github.com/angel333119/Enpont">Enpont - by Angel333119</a></li>
-    <li><a href="https://www.getpaint.net/">Paint.NET</a></li>
+    <li><a href="https://www.romhacking.net/utilities/658/"><u>jPSXdec</u></a> Utilizado para extrair arquivos </li>
+    <li><a href="https://www.romhacking.net/utilities/1435/"><u>CDmage</u></a> Utilizado para importar modificações</li>
+    <li><a href="https://mh-nexus.de/en/hxd/"><u>HxD</u></a> Utilizado para modificar menu, missões e gameplay tudo em hexadecimal</li>
+    <li><a href="https://github.com/lab313ru/tim2view"><u>tim2view</u></a> Utilizado para importar e exportar imagens</li>
+    <li><a href="https://www.romhacking.net/utilities/109/"><u>TileMolester</u></a> Utilizado para modificar imagens</li>
+    <li><a href="https://github.com/angel333119/Enpont"><u>Enpont - by Angel333119</u></a> Utilizado para localizar os ponteiros</li>
