@@ -51,3 +51,5 @@
 
 <h2>Comentários a parte de @ZeraaMan14</h2>
     <p>Ace Combat de PSX é meu primeiro projeto oficial de tradução PT-BR que me fez aprender bastante sobre essa realidade do romhacking. E com ajuda de Jv132 e toda equipe MatizHill posso afirmar que haverá uma continuação desse projeto para Ace Combat 2 também de PSX. Muito Obrigado por chegar até aqui :)</p>
+
+<img href="https://media.discordapp.net/attachments/928286526306144346/1266121009426202685/image.png?ex=66a3fe94&is=66a2ad14&hm=3af028d4c52eec95b163511401bfa8639f9c0dc58d58ce232db9bd80c5668b81&=&format=webp&quality=lossless&width=606&height=468">
