@@ -7,7 +7,7 @@
     As missões são precisas mediante aos objetivos e apresentam uma história sobre cada cenário.As Fases apresentam um conjunto de alvos que devem ser destruídos, exeto aquelas em que você precisa somente percorrer um caminho predefinido.</p>
 
 <h2>Sobre a Tradução</h2>
-    <p> Todos os textos e imagens foram traduzidas, incluindo tanto o modo campanha com o modo versus quanto os menus de opções do jogo. Nossa tradução foi feita originalmente utilizando como base a versão Norte Americana com uma tradução direta e adaptação ao português coloquial para se aproximar ao linguajar do cotiano com raras exceções, pois alguns trechos utilizão codificações próprias da OTAN e das forças Americanas</p>
+    <p> Todos os textos e imagens foram traduzidas, incluindo tanto o modo campanha com o modo versus quanto os menus de opções do jogo. Nossa tradução foi feita originalmente utilizando como base a versão Norte Americana. Alguns trechos tiveram seu significado original alterado para seguir determinados padrões da OTAN</p>
     <h3>STATUS DA TRADUÇÃO</h3>
     <li>Abertura inicial -------------> [100%]</li>
     <li>Menu Principal -------------> [100%]</li>
@@ -36,21 +36,11 @@
     <li><a href="https://github.com/angel333119/Enpont"><u>Enpont - by Angel333119</u></a> Utilizado para localizar os ponteiros</li>
 
 <h2>Participantes do Projeto</h2>
-    <h4>ROMHacking</h4>
-        <li>ZeraaMan14</li>
-        <li>Jv132</li>
-        <li>Zungle</li>
-    <h4>Tradução</h4>
-        <li>Grand</li>
-        <li>ZeraaMan14<li>
-    <h4>Edição Gráfica</h4>
-        <li>Jv132</li>
-        <li>ZeraaMan14</li>
-    <h4>Revisão</h4>
-        <li>ZeraaMan14</li>
-        <li>Jv132</li>
-        <li>Fukurokujin</li>
-    <h4>Agradecimentos especiais</h4>
+    <li>ZeraaMan14</li>
+    <li>Jv132</li>
+    <li>Zungle</li>
+    <li>Grand</li>
+    <li>Fukurokujin</li>
+    <h4>Agradecimentos Especiais</h4>
         <li>NeloRosso</li>
-        <li>Matt ZX/li>
-        <li>e a você por jogar!</li>
+        <li>Matt ZX</li>
