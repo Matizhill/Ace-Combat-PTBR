@@ -1,4 +1,4 @@
-<h1>ACE COMBAT 1 TRADUZIDO EM PT-BR (PSX) (2024) </h1>
+<h1>ACE COMBAT (PSX)|| PROJETO DE TRADUÇÃO PT-BR (2024) </h1>
     <p>Tradução Brasileira completa do Ace Combat 1. Todas as ferramentas, aplicação do patch, observações sobre o processo de tradução e os envolvidos no projeto.</p>
 
 <h2>APRESENTAÇÃO</h2>
@@ -14,4 +14,16 @@
     <li>Agora coloque o arquivo patcheado em qualquer emulador de PSX</li>
     <li>Divirta-se!</li>
     <h3>AVISO: Aplique o Patch na versão Americana: Air Combat (USA) (TRACK1) [SLUS-00001]</h3>
+
+<h2>SOBRE A TRADUÇÃO</h2>
+    <p> Todos os textos e imagens foram 100% traduzidas, incluindo tanto o modo campanha com o modo versus quanto os menus de opções do jogo. Algumas imagens principalmente imagens referentes a gameplay e o mapa estão de certo modo comprimidas por isso foi necessário utilizar ferramentas próprias para tal desevolvimento</p>
+    <h3>STATUS DA TRADUÇÃO<h3>
+    <li>Abertura inicial --------> [100%]</li>
+    <li>Menu Principal ----------> [100%]</li>
+    <li>Opções e Configurações --> [100%]</li>
+    <li>Modo Campanha -----------> [100%]</li>
+    <li>Modo Versus -------------> [100%]</li>
+    <li>Gameplay ----------------> [100%]</li>
+    <li>Créditos ----------------> [100%]</li>
+    
 
