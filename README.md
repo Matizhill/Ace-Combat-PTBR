@@ -1,4 +1,4 @@
-<h1>ACE COMBAT (PSX)|| PROJETO DE TRADUÇÃO PT-BR (2024) </h1>
+<h1>Ace Combat (PSX)| Projeto de Tradução PT-BR (2024) </h1>
     <p>Tradução Brasileira completa do Ace Combat 1. Todas as ferramentas, aplicação do patch, observações sobre o processo de tradução e os envolvidos no projeto.</p>
 
 <h2>APRESENTAÇÃO</h2>
@@ -16,14 +16,14 @@
     <h3>AVISO: Aplique o Patch na versão Americana: Air Combat (USA) (TRACK1) [SLUS-00001]</h3>
 
 <h2>SOBRE A TRADUÇÃO</h2>
-    <p> Todos os textos e imagens foram 100% traduzidas, incluindo tanto o modo campanha com o modo versus quanto os menus de opções do jogo. Algumas imagens principalmente imagens referentes a gameplay e o mapa estão de certo modo comprimidas por isso foi necessário utilizar ferramentas próprias para tal desevolvimento</p>
+    <p> Todos os textos e imagens foram traduzidas, incluindo tanto o modo campanha com o modo versus quanto os menus de opções do jogo. Nossa tradução foi feita originalmente utilizando como base a versão Norte Americana com uma tradução direta e adaptação ao português coloquial para se aproximar ao linguajar do cotiano com raras exceções, pois alguns trechos utilizão codificações próprias da OTAN e das forças Americanas</p>
     <h3>STATUS DA TRADUÇÃO<h3>
-    <li>Abertura inicial --------> [100%]</li>
-    <li>Menu Principal ----------> [100%]</li>
-    <li>Opções e Configurações --> [100%]</li>
+    <li>Abertura inicial -----------> [100%]</li>
+    <li>Menu Principal ------------> [100%]</li>
+    <li>Opções e Configurações ---> [100%]</li>
     <li>Modo Campanha -----------> [100%]</li>
-    <li>Modo Versus -------------> [100%]</li>
-    <li>Gameplay ----------------> [100%]</li>
-    <li>Créditos ----------------> [100%]</li>
-    
+    <li>Modo Versus --------------> [100%]</li>
+    <li>Gameplay ------------------> [100%]</li>
+    <li>Créditos -------------------> [100%]</li>
+
 
