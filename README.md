@@ -27,3 +27,9 @@
     <li>Créditos ---------------------> [100%]</li>
 
 <h2>Ferramentas Utilizadas</h2>
+    <li><a href="https://www.romhacking.net/utilities/658/">jPSXdec</a></li>
+    <li><a href="https://www.romhacking.net/utilities/1435/">CDmage</a></li>
+    <li><a href="https://github.com/lab313ru/tim2view">tim2view</a></li>
+    <li><a href="https://www.romhacking.net/utilities/109/">TileMolester</a></li>
+    <li><a href="https://github.com/angel333119/Enpont">Enpont - by Angel333119</a></li>
+    <li><a href="https://www.getpaint.net/">Paint.NET</a></li>
