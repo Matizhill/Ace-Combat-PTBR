@@ -1,4 +1,4 @@
-<h1>ACE COMBAT 1 TRADUZIDO EM PT-BR</h1>
+<h1>ACE COMBAT 1 TRADUZIDO EM PT-BR (PSX) (2024) </h1>
     <p>Tradução Brasileira completa do Ace Combat 1. Todas as ferramentas necesárias para aplicação do patch, observações sobre o processo de tradução e os envolvidos no projeto.</p>
 
 <h2>APRESENTAÇÃO</h2>
