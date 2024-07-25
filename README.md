@@ -17,7 +17,7 @@
 
 <h2>SOBRE A TRADUÇÃO</h2>
     <p> Todos os textos e imagens foram traduzidas, incluindo tanto o modo campanha com o modo versus quanto os menus de opções do jogo. Nossa tradução foi feita originalmente utilizando como base a versão Norte Americana com uma tradução direta e adaptação ao português coloquial para se aproximar ao linguajar do cotiano com raras exceções, pois alguns trechos utilizão codificações próprias da OTAN e das forças Americanas</p>
-    <h3>STATUS DA TRADUÇÃO<h3>
+    <h3>STATUS DA TRADUÇÃO</h3>
     <li>Abertura inicial -----------> [100%]</li>
     <li>Menu Principal ------------> [100%]</li>
     <li>Opções e Configurações ---> [100%]</li>
