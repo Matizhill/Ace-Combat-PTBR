@@ -36,11 +36,12 @@
     <li><a href="https://github.com/angel333119/Enpont"><u>Enpont - by Angel333119</u></a> Utilizado para localizar os ponteiros</li>
 
 <h2>Participantes do Projeto</h2>
-    <li>ZeraaMan14</li>
-    <li>Jv132</li>
-    <li>Zungle</li>
-    <li>Grand</li>
-    <li>Fukurokujin</li>
+    <li>ZeraaMan14 - Hacking, Edição Grafia, Tradução e Revisão</li>
+    <li>Jv132 - Hacking, Edição Gráfica, Revisão</li>
+    <li>Zungle - Hacking</li>
+    <li>Grand - Tradução</li>
+    <li>Fukurokujin - Revisão</li>
     <h4>Agradecimentos Especiais</h4>
         <li>NeloRosso</li>
         <li>Matt ZX</li>
+        <li>E a você por jogar!</li>
