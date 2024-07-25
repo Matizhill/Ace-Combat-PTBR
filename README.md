@@ -45,3 +45,9 @@
         <li>NeloRosso</li>
         <li>Matt ZX</li>
         <li>E a você por jogar!</li>
+
+<h2>Informações para contato</h2>
+    <p>Caso encontre qualquer erro considere reportar para o nosso servidor do discord oficial: <a href="https://discord.com/invite/Brax3b8FjE">MatizHill</a>
+
+<h2>Comentários a parte de @ZeraaMan14<h2>
+    <p>Ace Combat de PSX é meu primeiro projeto oficial de tradução PT-BR que me fez aprender bastante sobre essa realidade do romhacking. E com ajuda de Jv132 e toda equipe MatizHill posso afirmar que haverá uma continuação desse projeto para Ace Combat 2 também de PSX. Muito Obrigado por chegar até aqui :)</p>
