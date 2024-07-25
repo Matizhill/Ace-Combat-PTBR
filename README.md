@@ -13,6 +13,6 @@
     <li>Baixe o programa <a href="https://www.romhacking.net/utilities/598/"><b>XDELTA UI</b></a> para aplicar o patch no track original</li>
     <li>Quando executar o software, selecione a localização do arquivo <b><u>Ace_Combat1_v1.0_PTBR_MatizHill.xdelta</u></b> na caixa de seleção: "Patch"e <b><u>Air Combat (USA) (Track 01).bin</u></b> na caixa de seleção "Source File"</u></b></li>
     <li>Utilizando a caixa de seleção: "Output File" coloque a localização da pasta em que você deseja deixar a versão patcheada da tradução e clique em <u>PATCH</u></li>
-    <li>Agora coloque o arquivo patcheado em qualquer emulador</li>
+    <li>Agora coloque o arquivo patcheado em qualquer emulador de PSX</li>
     <li>Divirta-se!</li>
 
