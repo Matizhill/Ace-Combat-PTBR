@@ -19,12 +19,12 @@
 
 
 <h2>Aplicando o Patch</h2>
-    <li>Baixe o arquivo Ace_Combat1_v1.0_PTBR_MatizHill.xdelta</li>
-    <li>Baixe o programa <a href="https://www.romhacking.net/utilities/598/"><b>XDELTA UI</b></a> para aplicar o patch no track original</li>
-    <li>Quando executar o software, selecione a localização do arquivo <b><u>Ace_Combat1_v1.0_PTBR_MatizHill.xdelta</u></b> na caixa de seleção: ["Patch"] e <b><u>Air Combat (USA) (Track 01).bin</u></b> na caixa de seleção ["Source File"]</u></b></li>
-    <li>Utilizando a caixa de seleção: "Output File" coloque a localização da pasta em que você deseja deixar a versão patcheada da tradução e clique em <u>PATCH</u></li>
-    <li>Agora coloque o arquivo patcheado em qualquer emulador de PSX</li>
-    <li>Divirta-se!</li>
+    <p>1.Baixe o arquivo Ace_Combat1_v1.0_PTBR_MatizHill.xdelta</p>
+    <p>2.Baixe o programa <a href="https://www.romhacking.net/utilities/598/"><b>XDELTA UI</b></a> para aplicar o patch no track original</p>
+    <p>3.Quando executar o software, selecione a localização do arquivo <b><u>Ace_Combat1_v1.0_PTBR_MatizHill.xdelta</u></b> na caixa de seleção: ["Patch"] e <b><u>Air Combat (USA) (Track 01).bin</u></b> na caixa de seleção ["Source File"]</u></b></p>
+    <p>4.Utilizando a caixa de seleção: "Output File" coloque a localização da pasta em que você deseja deixar a versão patcheada da tradução e clique em <u>PATCH</u></p>
+    <p>5.Agora coloque o arquivo patcheado em qualquer emulador de PSX</p>
+    <p>Divirta-se!</p>
     <h3>AVISO: Aplique o Patch na versão Americana: Air Combat (USA) (TRACK1) [SLUS-00001]</h3>
 
 <h2>Ferramentas Utilizadas</h2>
