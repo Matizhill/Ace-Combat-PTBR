@@ -22,7 +22,9 @@ não será comentados ou aprofundados aqui.
 
 | Pastas | Descrição |
 | --- | --- |
+|`DA`| --- |
 | `DMO` | Imagens comprimidas apresentadas durante a gameplay|
+|`VO`| Estão localizados as vozes do narrador das missões |
 | `M(XX)` | Arquivos utilizados (Imagens e Modelos das aeronaves e cenário) em  cada fase do jogo |
 | `P(X)` | Aeronaves compráveis dentro do jogo utilizada pelo jogador|
 | `SND` | Arquivos de áudio e efeitos sonoros do ambiente|
@@ -76,7 +78,7 @@ São exibidos 38 caracteres por linha, sendo recomendado usar 34 para ficar unif
 em casos extremos, use 38 como limite
 <hr>
 ========
-NOTAÇÕES DE MODIFICAÇÕES
+ANOTAÇÕES DE MODIFICAÇÕES
 
 Tabela:
 | Numeração | Caractere | Acentuação | Valor   (HEX)|
