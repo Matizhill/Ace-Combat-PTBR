@@ -10,7 +10,6 @@
 - Ponteiros
 - Gráficos
 - Compressão
-- 
 
 
 # Introdução
@@ -23,19 +22,16 @@ não será comentados ou aprofundados aqui.
 
 | Pastas | Descrição |
 | --- | --- |
-| `DA` | Imagens comprimidas  apresentadas na gameplay |
-| `DMO` | Show file differences that **haven't been** staged |
-| `M(XX)` |
-| `P(X)` |
-| `SND` |
-| `STR` | Vídeos no formato STR |
-| `VO` |
+| `DMO` | Imagens comprimidas apresentadas durante a gameplay|
+| `M(XX)` | Arquivos utilizados (Imagens e Modelos das aeronaves e cenário) em  cada fase do jogo |
+| `P(X)` | Aeronaves compráveis dentro do jogo utilizada pelo jogador|
+| `SND` | Arquivos de áudio e efeitos sonoros do ambiente|
+| `STR` | Vídeos no formato STR, abertura e créditos |
 | `X` | Arquivos executaveis que armazena toda lógica do jogo |
 
-Não tem muito segredo diante as chaves, 00 faz com que o texto pare de ler o que está por vir.
-
-São exibidos 38 caracteres por linha, sendo recomendado usar 34 para ficar uniforme.
-em casos extremos, use 38 como limite
+Obs: M(00) é  a fase inicial e  cada segmento numérico seguinte é um nível da gameplay com suas texturas, modelos de tanto aeronaves quanto do cenário em que se passa a missão.
+<br> 
+Obs.2: Todos os textos de apresentação das missões estão no arquivo __MISSEL.EXE__
 
 ## Ponteiros
 
@@ -73,8 +69,11 @@ OBS: USE CTRL+G para achar.
 - M16: 590FC
 - M17: 594A4-594C
 
-========
+<br>
 Em trechos que o jogo precisa só exibir uma linha, ele utiliza um ponteiro apropriado para esconder a segunda linha "5C 99 08 80"
+Não tem muito segredo diante as chaves, 00 faz com que o texto pare de ler o que está por vir.
+São exibidos 38 caracteres por linha, sendo recomendado usar 34 para ficar uniforme.
+em casos extremos, use 38 como limite
 <hr>
 ========
 NOTAÇÕES DE MODIFICAÇÕES
