@@ -23,7 +23,7 @@ não será comentados ou aprofundados aqui.
 
 | Pastas | Descrição |
 | --- | --- |
-| `DA` | List all *new or modified* files |
+| `DA` | Imagens comprimidas  apresentadas na gameplay |
 | `DMO` | Show file differences that **haven't been** staged |
 | `M(XX)` |
 | `P(X)` |
