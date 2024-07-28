@@ -73,22 +73,26 @@ OBS: USE CTRL+G para achar.
 
 ========
 Em trechos que o jogo precisa só exibir uma linha, ele utiliza um ponteiro apropriado para esconder a segunda linha "5C 99 08 80"
-
+<hr>
 ========
 NOTAÇÕES DE MODIFICAÇÕES
 
 Tabela:
-22  "=Ç (E7)
-23  #=Á (E0)
-24  $=Ã (E3)
-25  %=Â (E2)
-26  &=Ú (FA)
-27  '=Ó (F3)
-2A  *=Ê (EA)
-2B  +=É (E9)
-2F  /=Õ (F5)
-3D  ==Í (ED)
+| Numeração | Caractere | Acentuação | Valor   (HEX)|
+|---|---|---|---|
+|22|"|Ç|E7|
+|23|#|Á|E0|
+|24|$|Ã|E3|
+|25|%|Â|E2|
+|26|&|Ú|FA|
+|27|'|Ó|F3|
+|2A|*|Ê|EA|
+|2B|+|É|E9|
+|2F|/|Õ|F5|
+|3D|=|Í|ED|
 
-1A 35 02 80 = Boa sorte!
-                       NIVEL:DIFICIL
-Endereço do ponteiro do "LEVEL:HARD": C488
+
+`HEX:  1A 35 02 80` = Endereço do Ponteiro: "Good Luck!" (_Boa Sorte_)
+<br>
+`offset: C488` = Endereço do Ponteiro: "LEVE:HARD" (_NÍVEL:DIFÍCIL_)
+
