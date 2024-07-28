@@ -45,10 +45,12 @@ Os ponteiros deste jogo é simples, é apenas uma soma e subtração de valores.
 Como se mover entre ponteiros:
 Texto para Ponteiros:
 [XXYY] XX + 28 = ZZ > R: YYZZ
+<br>
 OBS: USE CTRL+F para achar.
 
 Ponteiros para Texto:
 [XXYY] YY - 28 = ZZ > R: ZZXX
+<br>
 OBS: USE CTRL+G para achar.
 
 ### Endereços dos Ponteiros de cada Missão:
