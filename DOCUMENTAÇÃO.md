@@ -112,4 +112,4 @@ Já para modificar as imagens referentes a jogabilidade e gameplay, cada fase do
 Apesar das fontes estarem repetidas durante todos os diretórios do jogo as principais que, de fato, aparecem na gameplay são: 
 (**DM0/MIS.TD/MIS.TD[0] || DM0/MIS.TD/MIS.TD[1]**) para os textos que são apresentados no início de cada missão, (**M19/AIR19.TD/AIR19.TD[1]**) para apresentar a conclusão do jogo logo após o término da missão e (**X/TITLE.EXE/TITLE.EXE[0] || X/TITLE.EXE/TITLE.EXE[1]**) para exibir os modos disponíveis na tela de ínicio do jogo.
 
-### Modificando 
+### Modificando as texturas (TIM's File)
