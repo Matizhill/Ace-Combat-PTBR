@@ -75,7 +75,7 @@ OBS: USE CTRL+G para achar.
 Em trechos que o jogo precisa só exibir uma linha, ele utiliza um ponteiro apropriado para esconder a segunda linha "5C 99 08 80"
 Não tem muito segredo diante as chaves, 00 faz com que o texto pare de ler o que está por vir.
 São exibidos 38 caracteres por linha, sendo recomendado usar 34 para ficar uniforme.
-em casos extremos, use 38 como limite
+em casos extremos, use 38 como limite.
 <hr>
 ========
 ANOTAÇÕES DE MODIFICAÇÕES
@@ -99,3 +99,17 @@ Tabela:
 <br>
 `offset: C488` = Endereço do Ponteiro: "LEVE:HARD" (_NÍVEL:DIFÍCIL_)
 
+
+## Gráficos
+
+### introdução
+Os gráficos do Ace Combat estão distribuidos ao longo dos diretórios, mas divididos em sua aparição dentro do jogo. Para modificar as texturas relacionadas ao: menu principal, tela de carregamento, abertura e menu de configurações os arquivos que contém tais imagens estão localizados na pasta (X) dentro dos arquivos (.EXE).
+
+Já para modificar as imagens referentes a jogabilidade e gameplay, cada fase do jogo possui um determinado diretório M(XX) e nele estão dispostos os gráficos dos cenários, aviões inimigos e toda a interface do jogador (**M00/MAP00.TD**) e (**M00/AIR00.TD**) respectivamente.
+
+### Fontes 
+
+Apesar das fontes estarem repetidas durante todos os diretórios do jogo as principais que, de fato, aparecem na gameplay são: 
+(**DM0/MIS.TD/MIS.TD[0] || DM0/MIS.TD/MIS.TD[1]**) para os textos que são apresentados no início de cada missão, (**M19/AIR19.TD/AIR19.TD[1]**) para apresentar a conclusão do jogo logo após o término da missão e (**X/TITLE.EXE/TITLE.EXE[0] || X/TITLE.EXE/TITLE.EXE[1]**) para exibir os modos disponíveis na tela de ínicio do jogo.
+
+### Modificando 
