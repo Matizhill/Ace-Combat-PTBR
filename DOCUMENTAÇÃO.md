@@ -31,9 +31,9 @@ não será comentados ou aprofundados aqui.
 | `STR` | Vídeos no formato STR, abertura e créditos |
 | `X` | Arquivos executaveis que armazena toda lógica do jogo |
 
-Obs: M(00) é  a fase inicial e  cada segmento numérico seguinte é um nível da gameplay com suas texturas, modelos de tanto aeronaves quanto do cenário em que se passa a missão.
+**Obs.1**: M(00) é  a fase inicial e  cada segmento numérico seguinte é um nível da gameplay com suas texturas, modelos de tanto aeronaves quanto do cenário em que se passa a missão.
 <br> 
-Obs.2: Todos os textos de apresentação das missões estão no arquivo __MISSEL.EXE__
+**Obs.2**: Todos os textos de apresentação das missões estão no arquivo __MISSEL.EXE__
 
 ## Ponteiros
 
@@ -44,38 +44,44 @@ Como se mover entre ponteiros:
 Texto para Ponteiros:
 [XXYY] XX + 28 = ZZ > R: YYZZ
 <br>
-OBS: USE CTRL+F para achar.
+**Obs**: USE CTRL+F para achar.
 
 Ponteiros para Texto:
 [XXYY] YY - 28 = ZZ > R: ZZXX
 <br>
-OBS: USE CTRL+G para achar.
+**Obs**: USE CTRL+G para achar.
 
 ### Endereços dos Ponteiros de cada Missão:
 
-- M01: 4E28C
-- M02: 4EB44
-- M03: 4F5E4
-- M04: 4FD2C
-- M05: 50844
-- M06: 511D0
-- M07: 51848
-- M08: 52CF0
-- M09: 53BC8
-- M10: 54638
-- M11: 54FA4
-- M12: 5639C
-- M13: 56E8C
-- M14: 578E4
-- M15: 588D4
-- M16: 590FC
-- M17: 594A4-594C
+| Missão | Offset |
+|---|---|
+|- M01:| 4E28C|
+|- M02:| 4EB44|
+|- M03:| 4F5E4|
+|- M04:| 4FD2C|
+|- M05:| 50844|
+|- M06:| 511D0|
+|- M07:| 51848|
+|- M08:| 52CF0|
+|- M09:| 53BC8|
+|- M10:| 54638|
+|- M11:| 54FA4|
+|- M12:| 5639C|
+|- M13:| 56E8C|
+|- M14:| 578E4|
+|- M15:| 588D4|
+|- M16:| 590FC|
+|- M17:| 594A4-594C |
 
-<br>
 Em trechos que o jogo precisa só exibir uma linha, ele utiliza um ponteiro apropriado para esconder a segunda linha "5C 99 08 80"
 Não tem muito segredo diante as chaves, 00 faz com que o texto pare de ler o que está por vir.
 São exibidos 38 caracteres por linha, sendo recomendado usar 34 para ficar uniforme.
 em casos extremos, use 38 como limite.
+
+<br>
+
+**Obs**: Apesar da quantidade de pastas com missões dentro dos arquivos do jogo, somente 17 delas são jogáveis na versão final sendo a última (M19) que contém toda a finalização.
+
 <hr>
 ========
 ANOTAÇÕES DE MODIFICAÇÕES
