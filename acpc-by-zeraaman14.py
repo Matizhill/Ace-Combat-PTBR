@@ -2,6 +2,7 @@
 # Código original feito por: ZeraaMan14
 # Mais detalhes em: https://matizhill.com.br
 
+
 print("ACPC - ZeraaMan14")
 print("---------------------------------------------")
 print("[1] - Localizar Ponteiro (Texto -> Ponteiro)")
