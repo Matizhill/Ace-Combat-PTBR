@@ -1,4 +1,6 @@
 <h1>Ace Combat (PSX)| Projeto de Tradução PT-BR (2024) </h1>
+
+<img width="165" height="165" align="right" src="https://github.com/Matizhill/Ace-Combat-PTBR/blob/main/image/ps1_aircombat.jpg">
     <p>Tradução Brasileira completa do Ace Combat 1. Todas as ferramentas, aplicação do patch, observações sobre o processo de tradução e os envolvidos no projeto.</p>
 
 <h2>Apresentação</h2>
