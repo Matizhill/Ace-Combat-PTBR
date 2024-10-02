@@ -1,8 +1,8 @@
-<h1>Ace Combat (PSX)| Projeto de Tradução PT-BR (2024) </h1>
+<h1>Ace Combat (PSX) | Projeto de Tradução PT-BR</h1>
 
-<img width="165" height="165" align="right" src="https://github.com/Matizhill/Ace-Combat-PTBR/blob/main/image/ps1_aircombat.jpg">
+<img width="215" align="right" src="https://github.com/Matizhill/Ace-Combat-PTBR/blob/main/image/ps1_aircombat.jpg">
     <p>Tradução Brasileira completa do Ace Combat 1. Todas as ferramentas, aplicação do patch, observações sobre o processo de tradução e os envolvidos no projeto.</p>
-
+<br><br><br>
 <h2>Apresentação</h2>
     <p><u>Ace Combat</u> é um jogo arcade publicado pela <b>Bandai Namco Entertainment</b> em 1995. A franquia apresenta uma ambientação militarizada, no qual, você um piloto contratado pelo exército deve realizar ataques precisos para conseguir eliminar uma força terrorista organizada, que nos últimos tempos tentou aplicar um golpe de Estado.</p>
     <p>A gameplay é bastante simples, utilizando D-PAD conseguimos controlar com eficiência a direção da aéronave, R1 e L1 para modificar a aceleração e pressionando os botões X e O selecionamos quais armas serão disparadas contra o inimigo.
