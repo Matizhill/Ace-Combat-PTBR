@@ -22,10 +22,6 @@
 7. Gráficos
 8. Compressão
 
-**ACPC**
-
-9. Instalando
-10. Como utilizar
 
 ## Introdução
 Esta documentação foi feita após a finalização do projeto de tradução brasileira de Air Combat,
