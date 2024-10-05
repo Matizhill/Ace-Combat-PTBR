@@ -1,37 +1,67 @@
-# Documentação de Air Combat (PSX)
-# Súmario
-- Introdução
-- Créditos
-## Diretórios
-- Pastas
-- Tipo de arquivos
-## Modificação
-- Texto
-- Ponteiros
-- Gráficos
-- Compressão
-## ACPC
-- Instalando
-- Como utilizar
+<div align="center">
 
-# Introdução
+![logo](https://github.com/Matizhill/Ace-Combat-PTBR/blob/main/image/logo.png)
+
+# Documentação de Air Combat/Ace Combat (PSX)
+
+</div>
+
+**Súmario**
+1. Introdução
+2. Créditos
+
+**Diretórios**
+
+3. Estrutura
+4. Tipo de arquivos
+
+**Modificação**
+
+5. Texto
+6. Ponteiros
+7. Gráficos
+8. Compressão
+
+**ACPC**
+
+9. Instalando
+10. Como utilizar
+
+## Introdução
 Esta documentação foi feita após a finalização do projeto de tradução brasileira de Air Combat,
 seu intuito é detalhar como o jogo funciona, assim ajudando outras pessoas conseguirem traduzir para
 outros idiomas. O foco do documento será voltado para tradução, então coisas que envolva além deste intuito
 não será comentados ou aprofundados aqui.
 
+## Créditos
+- **ZeraaMan14**: Hacking, Edição Gráfica, Tradução e Revisão
+- **Jv132**: Hacking, Edição Gráfica e Revisão
+- **Zungle**: Hacking
+- **Grand**: Tradução
+- **Fukurokujin**: Revisão
+
+**Agradecimentos Especiais**
+- **NeloRosso**: Consultoria e Testador
+- **Matt ZX**: Consultoria
+
+## Estrutura
+
+Em Ace Combat, o jogo organiza os textos em diversos arquivos separados, aqui organizamos quais arquivos que possui os principais textos do jogo. A codificação dos textos são em ASCII padrão, apesar da fonte do jogo só possuir letras maiúsculas, o jogo vai conseguir ler tanto as letras minúsculas e maiúsculas, e serão exibido com a mesma fonte.
+
+### Codificação
+
 <hr>
 
 | Pastas | Descrição |
 | --- | --- |
-|`DA`| --- |
-| `DMO` | Imagens comprimidas apresentadas durante a gameplay|
-|`VO`| Estão localizados as vozes do narrador das missões |
-| `M(XX)` | Arquivos utilizados (Imagens e Modelos das aeronaves e cenário) em  cada fase do jogo |
-| `P(X)` | Aeronaves compráveis dentro do jogo utilizada pelo jogador|
-| `SND` | Arquivos de áudio e efeitos sonoros do ambiente|
-| `STR` | Vídeos no formato STR, abertura e créditos |
-| `X` | Arquivos executaveis que armazena toda lógica do jogo |
+| `/DA` | --- |
+| `/DMO` | Imagens comprimidas apresentadas durante a gameplay. |
+| `/VO` | Estão localizados as vozes do narrador das missões. |
+| `/M(XX)` | Arquivos utilizados (Imagens e Modelos das aeronaves e cenário) em cada fase do jogo. |
+| `/P(X)` | Aeronaves compráveis dentro do jogo utilizada pelo jogador. |
+| `/SND` | Arquivos de áudio e efeitos sonoros do ambiente. |
+| `/STR` | Vídeos no formato STR, abertura e créditos. |
+| `/X` | Arquivos executaveis que armazena toda lógica do jogo. |
 
 **Obs.1**: M(00) é  a fase inicial e  cada segmento numérico seguinte é um nível da gameplay com suas texturas, modelos de tanto aeronaves quanto do cenário em que se passa a missão.
 <br> 
@@ -57,23 +87,23 @@ Ponteiros para Texto:
 
 | Missão | Offset |
 |---|---|
-|- M01:| 4E28C|
-|- M02:| 4EB44|
-|- M03:| 4F5E4|
-|- M04:| 4FD2C|
-|- M05:| 50844|
-|- M06:| 511D0|
-|- M07:| 51848|
-|- M08:| 52CF0|
-|- M09:| 53BC8|
-|- M10:| 54638|
-|- M11:| 54FA4|
-|- M12:| 5639C|
-|- M13:| 56E8C|
-|- M14:| 578E4|
-|- M15:| 588D4|
-|- M16:| 590FC|
-|- M17:| 594A4-594C |
+| M01:| 4E28C|
+| M02:| 4EB44|
+| M03:| 4F5E4|
+| M04:| 4FD2C|
+| M05:| 50844|
+| M06:| 511D0|
+| M07:| 51848|
+| M08:| 52CF0|
+| M09:| 53BC8|
+| M10:| 54638|
+| M11:| 54FA4|
+| M12:| 5639C|
+| M13:| 56E8C|
+| M14:| 578E4|
+| M15:| 588D4|
+| M16:| 590FC|
+| M17:| 594A4-594C |
 
 Em trechos que o jogo precisa só exibir uma linha, ele utiliza um ponteiro apropriado para esconder a segunda linha "5C 99 08 80"
 Não tem muito segredo diante as chaves, 00 faz com que o texto pare de ler o que está por vir.
