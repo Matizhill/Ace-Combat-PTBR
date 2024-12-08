@@ -1,0 +1,25 @@
+# Air Combat DAT extractor - mumm-ra 2024/09 - v0.9
+
+get fsize ASIZE longlong
+get fcount long
+savePos CURROFS
+
+for i = 1 <= fcount
+	goto CURROFS
+	get OFFSET LONG
+	
+	if i < fcount
+		get NEXTOFS LONG
+	else
+		math NEXTOFS = fsize
+	endif
+		
+	xmath SIZE "NEXTOFS - OFFSET"
+
+	string name p "file_%08X.bin" OFFSET
+	log "name" OFFSET SIZE
+
+	math CURROFS += 4
+next i
+
+
