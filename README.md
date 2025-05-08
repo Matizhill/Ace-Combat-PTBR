@@ -41,6 +41,7 @@
     <li>ZeraaMan14 - Hacking, Edição Grafia, Tradução e Revisão</li>
     <li>Jv132 - Hacking, Edição Gráfica, Revisão</li>
     <li>Zungle - Hacking</li>
+    <li>Mumm-ra - Hacking</li>
     <li>Grand - Tradução</li>
     <li>Fukurokujin - Revisão</li>
     <h4>Agradecimentos Especiais</h4>
