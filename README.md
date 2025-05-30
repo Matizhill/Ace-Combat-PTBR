@@ -36,6 +36,7 @@
     <li><a href="https://github.com/lab313ru/tim2view"><u>tim2view</u></a> - Utilizado para importar e exportar imagens</li>
     <li><a href="https://www.romhacking.net/utilities/109/"><u>TileMolester</u></a> - Utilizado para modificar imagens</li>
     <li><a href="https://github.com/angel333119/Enpont"><u>Enpont - by Angel333119</u></a> Utilizado para localizar os ponteiros</li>
+    <li><u>MummGGTool</u>: Editor gráfico feito pelo Mumm-ra, Utilizado para editar arquivos de imagens comprimidas</li>
 
 <h2>Participantes do Projeto</h2>
     <li>ZeraaMan14 - Hacking, Edição Grafia, Tradução e Revisão</li>
