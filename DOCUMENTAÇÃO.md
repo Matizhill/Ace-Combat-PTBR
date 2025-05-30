@@ -33,6 +33,7 @@ não será comentados ou aprofundados aqui.
 - **ZeraaMan14**: Hacking, Edição Gráfica, Tradução e Revisão
 - **Jv132**: Hacking, Edição Gráfica e Revisão
 - **Zungle**: Hacking
+- **MummRa**: Hacking & Compressão
 - **Grand**: Tradução
 - **Fukurokujin**: Revisão
 
