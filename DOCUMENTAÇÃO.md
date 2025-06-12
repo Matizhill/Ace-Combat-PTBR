@@ -134,6 +134,17 @@ Tabela:
 <br>
 `offset: C488` = Endereço do Ponteiro: "LEVE:HARD" (_NÍVEL:DIFÍCIL_)
 
+216C
+
+final 0, 4, 8, C
+
+Duração limite: 15A0
+
+2484 ate 290F<br>
+2DD0 ate 2F6F
+
+na memoria é ate 27FF(???) 
+
 
 ## Gráficos
 
