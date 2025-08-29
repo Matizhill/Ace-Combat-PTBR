@@ -47,8 +47,6 @@ Em Ace Combat, o jogo organiza os textos em diversos arquivos separados, aqui or
 
 ### Codificação
 
-<hr>
-
 | Pastas | Descrição |
 | --- | --- |
 | `/DA` | --- |
@@ -116,7 +114,7 @@ em casos extremos, use 38 como limite.
 ANOTAÇÕES DE MODIFICAÇÕES
 
 Tabela:
-| Numeração | Caractere | Acentuação | Valor   (HEX)|
+| Numeração | Caractere | Acentuação | Valor (HEX)|
 |---|---|---|---|
 |22|"|Ç|E7|
 |23|#|Á|E0|
@@ -129,33 +127,25 @@ Tabela:
 |2F|/|Õ|F5|
 |3D|=|Í|ED|
 
-
-`HEX:  1A 35 02 80` = Endereço do Ponteiro: "Good Luck!" (_Boa Sorte_)
-<br>
-`offset: C488` = Endereço do Ponteiro: "LEVE:HARD" (_NÍVEL:DIFÍCIL_)
-
 216C
 
 final 0, 4, 8, C
 
 Duração limite: 15A0
 
+Campos livre:<br>
 2484 ate 290F<br>
 2DD0 ate 2F6F
 
-na memoria é ate 27FF(???) 
-
-
 ## Gráficos
 
-### introdução
 Os gráficos do Ace Combat estão distribuidos ao longo dos diretórios, mas divididos em sua aparição dentro do jogo. Para modificar as texturas relacionadas ao: menu principal, tela de carregamento, abertura e menu de configurações os arquivos que contém tais imagens estão localizados na pasta (X) dentro dos arquivos (.EXE).
 
 Já para modificar as imagens referentes a jogabilidade e gameplay, cada fase do jogo possui um determinado diretório M(XX) e nele estão dispostos os gráficos dos cenários, aviões inimigos e toda a interface do jogador (**M00/MAP00.TD**) e (**M00/AIR00.TD**) respectivamente.
 
 ### Fontes 
 
-Apesar das fontes estarem repetidas durante todos os diretórios do jogo as principais que, de fato, aparecem na gameplay são: 
+Apesar das fontes estarem repetidas durante todos os diretórios do jogo as principais que, de fato, aparecem na gameplay são:<br>
 (**MIS.TD[0-1]** Localizado na pasta *DM0*) para os textos que são apresentados no início de cada missão, (**AIR19.TD[1]** Localizado na pasta *M19*) para apresentar a conclusão do jogo logo após o término da missão e (**TITLE.EXE[0-1]** Localizado na pasta *X*) para exibir os modos disponíveis na tela de ínicio do jogo.
 
 ### Modificando as texturas (TIM's File)
